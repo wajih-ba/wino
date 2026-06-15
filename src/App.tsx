@@ -8,7 +8,6 @@ import { Features } from "@/components/landing/Features";
 import { Team } from "@/components/landing/Team";
 import { Reviews } from "@/components/landing/Reviews";
 import { Screenshots } from "@/components/landing/Screenshots";
-import { ProjectProgress } from "@/components/landing/ProjectProgress";
 import { TechStack } from "@/components/landing/TechStack";
 import { FAQ } from "@/components/landing/FAQ";
 import { FreeBanner } from "@/components/landing/FreeBanner";
@@ -39,7 +38,6 @@ export default function App() {
         <VideoDemo />
         <Features />
         <Screenshots />
-        <ProjectProgress />
         <Team />
         <Reviews />
         <TechStack />

@@ -6,7 +6,6 @@ import { withBase } from "@/lib/baseUrl";
 const links = [
   { href: "#about", label: "About" },
   { href: "#features", label: "Features" },
-  { href: "#progress", label: "Progress" },
   { href: "#team", label: "Team" },
   { href: "#reviews", label: "Reviews" },
   { href: "#tech", label: "Tech" },
