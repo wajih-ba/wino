@@ -3,7 +3,6 @@ import { Hero } from "@/components/landing/Hero";
 import { Stats } from "@/components/landing/Stats";
 import { EmailSection } from "@/components/landing/EmailSection";
 import { About } from "@/components/landing/About";
-import { VideoDemo } from "@/components/landing/VideoDemo";
 import { Features } from "@/components/landing/Features";
 import { Team } from "@/components/landing/Team";
 import { Reviews } from "@/components/landing/Reviews";
@@ -35,7 +34,6 @@ export default function App() {
         <Hero />
         <Stats />
         <About />
-        <VideoDemo />
         <Features />
         <Screenshots />
         <Team />
