@@ -47,7 +47,6 @@ export function Footer() {
             <div className="text-xs uppercase tracking-wider text-muted-foreground">Company</div>
             <ul className="mt-3 space-y-2 text-sm">
               <li><a href="#team" className="hover:text-foreground text-muted-foreground transition">Team</a></li>
-              <li><a href="#reviews" className="hover:text-foreground text-muted-foreground transition">Reviews</a></li>
               <li><a href="mailto:wiiinoo12345@gmail.com" className="hover:text-foreground text-muted-foreground transition">wiiinoo12345@gmail.com</a></li>
             </ul>
           </div>

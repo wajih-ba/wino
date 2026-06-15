@@ -5,7 +5,6 @@ import { EmailSection } from "@/components/landing/EmailSection";
 import { About } from "@/components/landing/About";
 import { Features } from "@/components/landing/Features";
 import { Team } from "@/components/landing/Team";
-import { Reviews } from "@/components/landing/Reviews";
 import { Screenshots } from "@/components/landing/Screenshots";
 import { TechStack } from "@/components/landing/TechStack";
 import { FAQ } from "@/components/landing/FAQ";
@@ -37,7 +36,6 @@ export default function App() {
         <Features />
         <Screenshots />
         <Team />
-        <Reviews />
         <TechStack />
         <FAQ />
         <EmailSection />
